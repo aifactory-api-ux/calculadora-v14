@@ -1,0 +1,5 @@
+# API_CONTRACT.md
+
+There are no HTTP API endpoints.
+
+All calculations and validations are performed client-side in the browser. No backend endpoints exist.
